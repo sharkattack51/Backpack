@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!--アプリケーション設定-->
+	<item name="IsDebug">true</item>
+	<item name="UseMouse">true</item><!--操作モードを切り替える true:マウス / false:タッチ -->
+	<item name="ShowMouseCursor">true</item><!--マウスモード時のカーソル表示設定 true / false -->
+	<item name="UseFullScreen">false</item><!--フルスクリーン表示の利用 true / false -->
+	<item name="UseFrontWindow">false</item><!--最前面表示の利用 true / false -->
+	<item name="BgmVolume">0.7</item><!--BGMの音量-->
+	<item name="SeVolume">0.5</item><!--ボタン音の音量-->
+	<item name="SupportApplication"></item>
+</data>
