@@ -1,6 +1,5 @@
 # Backpack
 Backpack is skeleton of the project of as3.
-<<<<<<< HEAD
 
 Can be used in both of the projects of the AIR / Flash, it will help the start of the project.
 Key input, sound, and debugging, the manager class that manages the scene State has,
@@ -79,5 +78,3 @@ Refer to the `bin/ApplicationSetting.xml` XML format.
 
 `Logger.Log()` by do the log output.
 Will be output to the `bin/log`.
-=======
->>>>>>> c7a5acd5eac3130c6f417518b33f6b50ceb76284
