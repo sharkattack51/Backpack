@@ -5,6 +5,8 @@ Can be used in both of the projects of the AIR / Flash, it will help the start o
 Key input, sound, and debugging, the manager class that manages the scene State has,
 Simply by editing the State class you can start the project.
 
+If you want to use the UI library can use the [Karabiner](https://github.com/sharkattack51/Karabiner).
+
 ## Require
 
 - [Karabiner](https://github.com/sharkattack51/Karabiner)
