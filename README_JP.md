@@ -6,6 +6,8 @@ AIR/Flash の両方のプロジェクトで使用でき、プロジェクトの�
 キー入力、サウンド、デバッグと、シーン State を管理するマネージャークラスを持ち、
 State クラスを編集することで簡単にプロジェクトを開始することができます。
 
+もしもUIライブラリを利用する場合は [Karabiner](https://github.com/sharkattack51/Karabiner) を利用できます。
+
 ## Require
 
 - [Karabiner](https://github.com/sharkattack51/Karabiner)
